@@ -1,7 +1,7 @@
 # CV-CSS-Project-Larissa-Scalzaretto
 <h2>Project Description</h2>
 
-A responsive personal portfolio website developed with HTML5 and CSS3, inspired by Studio Luar’s elegant purple gradient aesthetic. The design features large card-like sections, smooth gradients, and clean typography to present professional information in a modern, stylish way.
+A responsive personal portfolio website developed with HTML5 and CSS3, inspired by elegant purple gradient aesthetic. The design features large card-like sections, smooth gradients, and clean typography to present professional information in a modern, stylish way.
 
 <h3>Highlights</h3>
 <ul>
